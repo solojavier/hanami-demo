@@ -1,0 +1,7 @@
+name = 'hanami-demo'
+post_import = ''
+env = []
+include = []
+
+[services.web]
+port = 2300
