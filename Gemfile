@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+ruby "3.3.11"
+
 source "https://rubygems.org"
 
 gem "hanami", "3.0.0.rc1"
