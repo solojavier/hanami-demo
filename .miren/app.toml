@@ -5,3 +5,6 @@ include = []
 
 [services.web]
 port = 2300
+
+[build]
+version = "4.0"
